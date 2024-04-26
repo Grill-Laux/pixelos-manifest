@@ -1273,4 +1273,7 @@
   <include name="snippets/remove.xml" />
   <include name="snippets/external.xml" />
   <include name="snippets/custom.xml" />
+
+  <!-- OnePlus 6T -->
+  <include name="snippets/fajita.xml" />
 </manifest>
